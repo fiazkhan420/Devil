@@ -66,7 +66,7 @@ logo1 = """
 \033[1;91m888          888     d88P   888   d88P      
 \033[1;97m888          888    d8888888888  d88P       
 \033[1;97m888        8888888 d88P     888 d8888888888 
-
+print   "►▸▹►▸▹►▸▹►►▸▹►▸▹►▸▹►▸▹◃◄◅◃◄◅◃◄◅▸▹◃◄◅◃◄◅◃◄◅"
 \033[1;91m--> OWNER  :- FIAZ KHAN NIAZI
 \033[1;92m--> FACEBOOK   :- MUHAMMAD FIAZ KHAN
 \033[1;93m--> GITHUB   :- https://github.com/FiazNiazi1
