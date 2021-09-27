@@ -70,7 +70,7 @@ logo1 = """
 \033[1;91m--> OWNER  :- FIAZ KHAN NIAZI
 \033[1;92m--> FACEBOOK   :- MUHAMMAD FIAZ KHAN
 \033[1;93m--> GITHUB   :- https://github.com/FiazNiazi1
-\033[1;95m--> NOTE    :- USE 4G INTERNET(ENJOY FREE CLONING)
+\033[1;95m--> NOTE  :- USE 4G INTERNET(ENJOY FREE CLONING)
 
 """
 
@@ -113,11 +113,11 @@ print  """
 \033[1;91m888          888     d88P   888   d88P      
 \033[1;97m888          888    d8888888888  d88P       
 \033[1;97m888        8888888 d88P     888 d8888888888 
-                                                                                                                                  
+ print   "►▸▹►▸▹►▸▹►►▸▹►▸▹►▸▹►▸▹◃◄◅◃◄◅◃◄◅▸▹◃◄◅◃◄◅◃◄◅"                                                                                                                             
 \033[1;91m--> OWNER  :- FIAZ KHAN NIAZI
 \033[1;92m--> FACEBOOK   :- MUHAMMAD FIAZ KHAN
 \033[1;93m--> GITHUB   :- https://github.com/FiazNiazi1
-\033[1;95m--> USE 4G INTERNET (ENJOY FREE CLONING)
+\033[1;95m--> USE 4G INTERNET(ENJOY FREE CLONING)
 
 
 """
@@ -127,9 +127,9 @@ CorrectPassword = "Fiaz"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;97m\x1b[1;97mMr \x1b[1;97m------- \x1b[1;97m")
+    username = raw_input("\033[1;97m\x1b[1;97mUserName \x1b[1;97m------- \x1b[1;97m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;97m\x1b[1;97mFiaz  \x1b[1;97m------- \x1b[1;97m")
+    	password = raw_input("\033[1;97m\x1b[1;97mPassword  \x1b[1;97m------- \x1b[1;97m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Mr:Fiaz
 	    time.sleep(2)
@@ -354,10 +354,10 @@ def pilih_crack():
 	for o in titik:
 		print("\r\033[1;94mCloning\033[1;94m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\033[1;96mTo Stop Process Press CTRL then Z"
-	print "\033[1;91m-------------------------------------------------------------------"
+	print "\033[1;91m------------------------------------------------"
 	jalan(' \033[1;95mPlz Wait Cloned Accounts Will Appear Here')
         jalan(' \033[1;95m      Started Cloning Wait A while  ')
-	print "\033[1;91m-----------------FIAZ KING OF FB----------------------"
+	print "\033[1;91m-----------------FIAZ KING OF FB----------------"
 	
 			
 	def main(arg):
